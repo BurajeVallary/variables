@@ -5,6 +5,7 @@ fun main(args: Array<String>) {
     var weightInKg =65
     var isKenyan: Boolean = true
     var notKenyan: Boolean = false
+    var newCange = "ghgsi"
 
     println(isKenyan)
 }
